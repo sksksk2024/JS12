@@ -1,1 +1,1 @@
-"# JS12" 
+Konami code, but with unicorns!
